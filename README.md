@@ -1,4 +1,5 @@
-# Machine-Learning-and-predictive-modeling
+# Energy Consumption Prediction in the Steel Industry – South Korea
+
 # Objective:
 To identify the most suitable machine learning model for predicting energy consumption in South Korea's steel industry, with the goal of supporting eco-friendly and energy-efficient production strategies.
 
